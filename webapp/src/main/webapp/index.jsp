@@ -1,5 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project Bertin  !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Bertin on learning Devops</h1>
-<h1> this lineis for docker test</h1>
+<h2> we have gone thru the whoe circle in this project. </h2>
